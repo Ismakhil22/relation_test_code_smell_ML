@@ -1,0 +1,104 @@
+App,Tag,FilePath,RelativeFilePath,FileName,ClassName,Comment
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-cluster\src\test\java\org\apache\dubbo\rpc\cluster\router\file\FileRouterEngineTest.java,dataset/projects/dubbo/dubbo-cluster/src/test/java/org/apache/dubbo/rpc/cluster/router/file/FileRouterEngineTest.java,FileRouterEngineTest.java,MockClusterInvoker,""" FIXME: this exposes the design flaw in RouterChain"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-cluster\src\test\java\org\apache\dubbo\rpc\cluster\support\FailSafeClusterInvokerTest.java,dataset/projects/dubbo/dubbo-cluster/src/test/java/org/apache/dubbo/rpc/cluster/support/FailSafeClusterInvokerTest.java,FailSafeClusterInvokerTest.java,FailSafeClusterInvokerTest,""" TODO assert error log"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-cluster\src\test\java\org\apache\dubbo\rpc\cluster\support\MergeableClusterInvokerTest.java,dataset/projects/dubbo/dubbo-cluster/src/test/java/org/apache/dubbo/rpc/cluster/support/MergeableClusterInvokerTest.java,MergeableClusterInvokerTest.java,MergeableClusterInvokerTest,""" FIXME: cannot guarantee the sequence of the merge result, check implementation in"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-common\src\test\java\org\apache\dubbo\common\URLTest.java,dataset/projects/dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/URLTest.java,URLTest.java,URLTest,""" TODO Do not want to use spaces? See: DUBBO-502, URL class handles special conventions for special characters."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-config\dubbo-config-api\src\test\java\org\apache\dubbo\config\AbstractReferenceConfigTest.java,dataset/projects/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/AbstractReferenceConfigTest.java,AbstractReferenceConfigTest.java,ReferenceConfig,""" FIXME: not sure why AbstractReferenceConfig has both isGeneric and getGeneric"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-config\dubbo-config-api\src\test\java\org\apache\dubbo\config\bootstrap\MultiInstanceTest.java,dataset/projects/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/bootstrap/MultiInstanceTest.java,MultiInstanceTest.java,DeployEventHandler,""" TODO Remove ignore thread prefix of NettyServerBoss if supporting close protocol server only used by one"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-config\dubbo-config-api\src\test\java\org\apache\dubbo\config\integration\multiple\exportmetadata\MultipleRegistryCenterExportMetadataIntegrationTest.java,dataset/projects/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/integration/multiple/exportmetadata/MultipleRegistryCenterExportMetadataIntegrationTest.java,MultipleRegistryCenterExportMetadataIntegrationTest.java,MultipleRegistryCenterExportMetadataIntegrationTest,""" FIXME there may be something wrong with the whole process of"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-config\dubbo-config-api\src\test\java\org\apache\dubbo\config\integration\multiple\exportprovider\MultipleRegistryCenterExportProviderIntegrationTest.java,dataset/projects/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/integration/multiple/exportprovider/MultipleRegistryCenterExportProviderIntegrationTest.java,MultipleRegistryCenterExportProviderIntegrationTest.java,MultipleRegistryCenterExportProviderIntegrationTest,""" FixME We should check if the exported service (or provider) has been registered in multiple registry centers."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-config\dubbo-config-api\src\test\java\org\apache\dubbo\config\integration\single\SingleRegistryCenterDubboProtocolIntegrationTest.java,dataset/projects/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/integration/single/SingleRegistryCenterDubboProtocolIntegrationTest.java,SingleRegistryCenterDubboProtocolIntegrationTest.java,SingleRegistryCenterDubboProtocolIntegrationTest,"""
+     * There are some checkpoints needed to check as follow :
+     * <ul>
+     *     <li>ServiceConfig is exported or not</li>
+     *     <li>ServiceConfig's exportedUrl has values or not</li>
+     *     <li>DubboBootstrap is initialized or not</li>
+     *     <li>DubboBootstrap is started or not</li>
+     *     <li>DubboBootstrap is shutdown or not</li>
+     *     <li>The ServiceListener is loaded by SPI or not</li>
+     * </ul>
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-config\dubbo-config-api\src\test\java\org\apache\dubbo\config\integration\single\SingleRegistryCenterDubboProtocolIntegrationTest.java,dataset/projects/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/integration/single/SingleRegistryCenterDubboProtocolIntegrationTest.java,SingleRegistryCenterDubboProtocolIntegrationTest.java,SingleRegistryCenterDubboProtocolIntegrationTest,"""
+     * There are some checkpoints needed to check as follow :
+     * <ul>
+     *     <li>DubboBootstrap is initialized or not</li>
+     *     <li>DubboBootstrap is started or not</li>
+     *     <li>DubboBootstrap is shutdown or not</li>
+     *     <li>Service has been exported or not</li>
+     *     <li>There is exported urls or not</li>
+     *     <li>Protocol name is right or not</li>
+     *     <li>Protocol port is right or not</li>
+     *     <li>ServiceDiscoveryRegistry's protocol is right or not</li>
+     *     <li>Registered service in registry center is right or not</li>
+     *     <li>MetadataInfo has reported or not</li>
+     *     <li>MetadataInfo has reported or not has service or not</li>
+     *     <li>MetadataInfo's application name is right or not</li>
+     *     <li>MetadataInfo's service exists or not</li>
+     *     <li>The name of MetadataInfo's service is right or not</li>
+     *     <li>The group of MetadataInfo's service is right or not</li>
+     *     <li>The version of MetadataInfo's service is right or not</li>
+     *     <li>The protocol of MetadataInfo's service is right or not</li>
+     *     <li>The serviceKey of MetadataInfo's service is right or not</li>
+     *     <li>The matchKey of MetadataInfo's service is right or not</li>
+     *     <li>The exported service are right or not</li>
+     * </ul>
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-config\dubbo-config-api\src\test\java\org\apache\dubbo\config\integration\single\SingleRegistryCenterDubboProtocolIntegrationTest.java,dataset/projects/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/integration/single/SingleRegistryCenterDubboProtocolIntegrationTest.java,SingleRegistryCenterDubboProtocolIntegrationTest.java,SingleRegistryCenterDubboProtocolIntegrationTest,"""
+     * Returns {@link ServiceDiscoveryRegistry} instance.
+     * <p>
+     * FIXME It's not a good way to obtain {@link ServiceDiscoveryRegistry} using Reflection.
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-config\dubbo-config-api\src\test\java\org\apache\dubbo\config\integration\single\SingleRegistryCenterDubboProtocolIntegrationTest.java,dataset/projects/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/integration/single/SingleRegistryCenterDubboProtocolIntegrationTest.java,SingleRegistryCenterDubboProtocolIntegrationTest.java,SingleRegistryCenterDubboProtocolIntegrationTest,"""
+     * There are some checkpoints needed to check before referring as follow :
+     * <ul>
+     *     <li>ReferenceConfig has integrated into DubboBootstrap or not</li>
+     * </ul>
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-config\dubbo-config-api\src\test\java\org\apache\dubbo\config\integration\single\SingleRegistryCenterDubboProtocolIntegrationTest.java,dataset/projects/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/integration/single/SingleRegistryCenterDubboProtocolIntegrationTest.java,SingleRegistryCenterDubboProtocolIntegrationTest.java,SingleRegistryCenterDubboProtocolIntegrationTest,"""
+     * There are some checkpoints needed to check after referred as follow :
+     * <ul>
+     *     <li>SingleRegistryCenterIntegrationService instance can't be null</li>
+     *     <li>RPC works well or not</li>
+     *     <li>Invoker is right or not</li>
+     *     <li>Directory is null or not</li>
+     *     <li>Registered interface is right or not</li>
+     *     <li>Directory is available or not</li>
+     *     <li>Directory is destroyed or not</li>
+     *     <li>Directory has received notification or not</li>
+     *     <li>ServiceDiscoveryRegistryDirectory should register or not</li>
+     *     <li>ServiceDiscoveryRegistryDirectory's registered consumer url is right or not</li>
+     *     <li>ServiceDiscoveryRegistryDirectory's registry is right or not</li>
+     *     <li>Directory's invokers are right or not</li>
+     * </ul>
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-config\dubbo-config-api\src\test\java\org\apache\dubbo\config\MethodConfigTest.java,dataset/projects/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/MethodConfigTest.java,MethodConfigTest.java,MethodConfigTest,""" TODO remove this test"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-config\dubbo-config-api\src\test\java\org\apache\dubbo\config\ReferenceConfigTest.java,dataset/projects/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/ReferenceConfigTest.java,ReferenceConfigTest.java,TestClassLoader2,""" FIXME support JDK 17"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-config\dubbo-config-spring\src\test\java\org\apache\dubbo\config\spring\status\SpringStatusCheckerTest.java,dataset/projects/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/status/SpringStatusCheckerTest.java,SpringStatusCheckerTest.java,ApplicationLifeCycle,""" TODO improve GenericWebApplicationContext test scenario"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-configcenter\dubbo-configcenter-nacos\src\test\java\org\apache\dubbo\configcenter\support\nacos\NacosDynamicConfigurationTest.java,dataset/projects/dubbo/dubbo-configcenter/dubbo-configcenter-nacos/src/test/java/org/apache/dubbo/configcenter/support/nacos/NacosDynamicConfigurationTest.java,NacosDynamicConfigurationTest.java,TestListener,""" FIXME: waiting for embedded Nacos support, then we can open the switch."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-configcenter\dubbo-configcenter-zookeeper\src\test\java\org\apache\dubbo\configcenter\support\zookeeper\ZookeeperDynamicConfigurationTest.java,dataset/projects/dubbo/dubbo-configcenter/dubbo-configcenter-zookeeper/src/test/java/org/apache/dubbo/configcenter/support/zookeeper/ZookeeperDynamicConfigurationTest.java,ZookeeperDynamicConfigurationTest.java,ZookeeperDynamicConfigurationTest,"""
+ * TODO refactor using mockito
+ """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-configcenter\dubbo-configcenter-zookeeper\src\test\java\org\apache\dubbo\configcenter\support\zookeeper\ZookeeperDynamicConfigurationTest.java,dataset/projects/dubbo/dubbo-configcenter/dubbo-configcenter-zookeeper/src/test/java/org/apache/dubbo/configcenter/support/zookeeper/ZookeeperDynamicConfigurationTest.java,ZookeeperDynamicConfigurationTest.java,ZookeeperDynamicConfigurationTest,"""
+ * TODO refactor using mockito
+ """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-registry\dubbo-registry-api\src\test\java\org\apache\dubbo\registry\client\metadata\MetadataServiceNameMappingTest.java,dataset/projects/dubbo/dubbo-registry/dubbo-registry-api/src/test/java/org/apache/dubbo/registry/client/metadata/MetadataServiceNameMappingTest.java,MetadataServiceNameMappingTest.java,MetadataServiceNameMappingTest,""" TODO"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-registry\dubbo-registry-api\src\test\java\org\apache\dubbo\registry\client\ServiceDiscoveryRegistryTest.java,dataset/projects/dubbo/dubbo-registry/dubbo-registry-api/src/test/java/org/apache/dubbo/registry/client/ServiceDiscoveryRegistryTest.java,ServiceDiscoveryRegistryTest.java,ServiceDiscoveryRegistryTest,""" TODO"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-remoting\dubbo-remoting-api\src\test\java\org\apache\dubbo\remoting\handler\HeaderExchangeHandlerTest.java,dataset/projects/dubbo/dubbo-remoting/dubbo-remoting-api/src/test/java/org/apache/dubbo/remoting/handler/HeaderExchangeHandlerTest.java,HeaderExchangeHandlerTest.java,Person,""" TODO response test"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-rpc\dubbo-rpc-api\src\test\java\org\apache\dubbo\rpc\filter\AccessLogFilterTest.java,dataset/projects/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/org/apache/dubbo/rpc/filter/AccessLogFilterTest.java,AccessLogFilterTest.java,AccessLogFilterTest,""" TODO how to assert thread action"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-rpc\dubbo-rpc-api\src\test\java\org\apache\dubbo\rpc\filter\ContextFilterTest.java,dataset/projects/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/org/apache/dubbo/rpc/filter/ContextFilterTest.java,ContextFilterTest.java,ContextFilterTest,"""
+ * ContextFilterTest.java
+ * TODO need to enhance assertion
+ """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-rpc\dubbo-rpc-api\src\test\java\org\apache\dubbo\rpc\filter\ContextFilterTest.java,dataset/projects/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/org/apache/dubbo/rpc/filter/ContextFilterTest.java,ContextFilterTest.java,ContextFilterTest,"""
+ * ContextFilterTest.java
+ * TODO need to enhance assertion
+ """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-rpc\dubbo-rpc-api\src\test\java\org\apache\dubbo\rpc\protocol\dubbo\FutureFilterTest.java,dataset/projects/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/FutureFilterTest.java,FutureFilterTest.java,FutureFilterTest,"""
+ * EventFilterTest.java
+ * TODO rely on callback integration test for now
+ """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-rpc\dubbo-rpc-api\src\test\java\org\apache\dubbo\rpc\protocol\dubbo\FutureFilterTest.java,dataset/projects/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/FutureFilterTest.java,FutureFilterTest.java,FutureFilterTest,"""
+ * EventFilterTest.java
+ * TODO rely on callback integration test for now
+ """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\dubbo\dubbo-rpc\dubbo-rpc-api\src\test\java\org\apache\dubbo\rpc\RpcContextTest.java,dataset/projects/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/org/apache/dubbo/rpc/RpcContextTest.java,RpcContextTest.java,RpcContextTest,""" TODO fix npe"""

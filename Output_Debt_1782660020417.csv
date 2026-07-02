@@ -1,0 +1,766 @@
+App,Tag,FilePath,RelativeFilePath,FileName,ClassName,Comment
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\concurrent\LongOpOrderTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/concurrent/LongOpOrderTest.java,LongOpOrderTest.java,Producer,""" TODO: should also test markBlocking and SyncOrdered"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\net\ConnectionBurnTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/net/ConnectionBurnTest.java,ConnectionBurnTest.java,WrappedInboundCallbacks,""" TODO: slowly modify the pattern of interrupts, from often to infrequent"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\net\ConnectionBurnTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/net/ConnectionBurnTest.java,ConnectionBurnTest.java,WrappedInboundCallbacks,""" TODO: slowly modify the pattern of interrupts, from often to infrequent"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\transport\DriverBurnTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/transport/DriverBurnTest.java,DriverBurnTest.java,DriverBurnTest,""" unused"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\transport\SimpleClientBurnTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/transport/SimpleClientBurnTest.java,SimpleClientBurnTest.java,SimpleClientBurnTest,""" TODO: exercise client -> server large messages"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\transport\SimpleClientPerfTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/transport/SimpleClientPerfTest.java,SimpleClientPerfTest.java,SimpleClientPerfTest,""" unused"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\transport\SimpleClientPerfTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/transport/SimpleClientPerfTest.java,SimpleClientPerfTest.java,SimpleClientPerfTest,""" TODO: exercise client -> server large messages"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\utils\LongBTreeTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/utils/LongBTreeTest.java,LongBTreeTest.java,InverseNoOp,""" TODO randomise this for each test"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\utils\LongBTreeTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/utils/LongBTreeTest.java,LongBTreeTest.java,InverseNoOp,""" TODO randomise this for each test"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\utils\LongBTreeTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/utils/LongBTreeTest.java,LongBTreeTest.java,InverseNoOp,""" TODO: revisit logic, document and ensure producing enough distinct patterns"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\utils\LongBTreeTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/utils/LongBTreeTest.java,LongBTreeTest.java,InverseNoOp,""" TODO: select random patterns of data as well as pure random data (i.e. random sequences, random fixed offsets, random mixes of the above)"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\utils\LongBTreeTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/utils/LongBTreeTest.java,LongBTreeTest.java,InverseNoOp,""" TODO: introduce patterns to verification, esp. to transform and update"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\utils\LongBTreeTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/utils/LongBTreeTest.java,LongBTreeTest.java,InverseNoOp,""" TODO: revisit logic, document and ensure producing enough distinct patterns"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\burn\org\apache\cassandra\utils\LongBTreeTest.java,dataset/projects/cassandra/test/burn/org/apache/cassandra/utils/LongBTreeTest.java,LongBTreeTest.java,InverseNoOp,""" TODO: select random patterns of data as well as pure random data (i.e. random sequences, random fixed offsets, random mixes of the above)"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\impl\AbstractClusterTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/impl/AbstractClusterTest.java,AbstractClusterTest.java,ConfigUpdate,"""TODO casting is annoying... what can be done to be smarter?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\impl\AbstractClusterTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/impl/AbstractClusterTest.java,AbstractClusterTest.java,ConfigUpdate,"""TODO casting is annoying... what can be done to be smarter?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\impl\AbstractClusterTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/impl/AbstractClusterTest.java,AbstractClusterTest.java,ConfigUpdate,"""TODO casting is annoying... what can be done to be smarter?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\accord\AccordBootstrapTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/accord/AccordBootstrapTest.java,AccordBootstrapTest.java,StreamListener,""" todo: re-add once we fix write survey/join ring = false mode"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\accord\AccordIncrementalRepairTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/accord/AccordIncrementalRepairTest.java,AccordIncrementalRepairTest.java,BarrierRecordingService,""" TODO (required): After conversation with Ariel: it's a known issue that I am not sure we need to fix now."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\accord\AccordIncrementalRepairTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/accord/AccordIncrementalRepairTest.java,AccordIncrementalRepairTest.java,BarrierRecordingService,""" TODO (required): After conversation with Ariel: it's a known issue that I am not sure we need to fix now."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\accord\AccordMetricsTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/accord/AccordMetricsTest.java,AccordMetricsTest.java,AccordMetricsTest,""" TODO (required): rework tests: internal accord timeout triggers later than external C* client one"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\accord\AccordMigrationTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/accord/AccordMigrationTest.java,AccordMigrationTest.java,RoutesToAccordOnce,""" TODO This precision isn't needed for Accord repair? Worth lifting that restriction or keep it consistent?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\accord\AccordWriteInteroperabilityTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/accord/AccordWriteInteroperabilityTest.java,AccordWriteInteroperabilityTest.java,AccordWriteInteroperabilityTest,""" TODO (required): Need to delay mutation stage/mutation to ensure this has time to catch it"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\BootstrapBinaryDisabledTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/BootstrapBinaryDisabledTest.java,BootstrapBinaryDisabledTest.java,RewriteEnabled,"""TODO can we make this more isolated?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\CASTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/CASTest.java,CASTest.java,CASTest,""" TODO: RF changes"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\CASTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/CASTest.java,CASTest.java,CASTest,""" TODO: Aborted range movements"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\CASTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/CASTest.java,CASTest.java,CASTest,""" TODO: Leaving ring"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\CASTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/CASTest.java,CASTest.java,CASTest,""" TODO: This currently requires the accord service to be disabled as some tests remove a node from the"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\CASTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/CASTest.java,CASTest.java,CASTest,""" TODO: fails with vnode enabled"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\CASTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/CASTest.java,CASTest.java,CASTest,""" TODO: this shoud probably be moved into the dtest API."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\CASTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/CASTest.java,CASTest.java,CASTest,""" TODO: repair and verify base table state"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\CASTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/CASTest.java,CASTest.java,CASTest,""" TODO: RF changes"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\CASTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/CASTest.java,CASTest.java,CASTest,""" TODO: Aborted range movements"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\CASTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/CASTest.java,CASTest.java,CASTest,""" TODO: Leaving ring"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\CasWriteTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/CasWriteTest.java,CasWriteTest.java,CasWriteTest,""" therefor asserts the FQCN name present in the message as a workaround"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\CasWriteTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/CasWriteTest.java,CasWriteTest.java,CasWriteTest,""" TODO: this test should be removed after running in-jvm dtests is set up via the shared API repository"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\ClientNetworkStopStartTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/ClientNetworkStopStartTest.java,ClientNetworkStopStartTest.java,ClientNetworkStopStartTest,"""TODO why does trunk need GOSSIP for native to work but no other branch does?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\cql3\SingleNodeTableWalkTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/cql3/SingleNodeTableWalkTest.java,SingleNodeTableWalkTest.java,IndexedColumn,"""TODO (coverage): COMPOSITE, DYNAMIC_COMPOSITE"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\cql3\SingleNodeTableWalkTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/cql3/SingleNodeTableWalkTest.java,SingleNodeTableWalkTest.java,IndexedColumn,"""TODO (now): remove duplicate logic"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\cql3\SingleNodeTableWalkTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/cql3/SingleNodeTableWalkTest.java,SingleNodeTableWalkTest.java,IndexedColumn,"""TODO (coverage): define search that has a upper and lower bound: a > and a < | a beteeen ? and ?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\cql3\SingleNodeTableWalkTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/cql3/SingleNodeTableWalkTest.java,SingleNodeTableWalkTest.java,IndexedColumn,"""TODO (coverage): define search that has a upper and lower bound: a > and a < | a beteeen ? and ?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\cql3\SingleNodeTableWalkTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/cql3/SingleNodeTableWalkTest.java,SingleNodeTableWalkTest.java,IndexedColumn,"""TODO (now): support"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\cql3\SingleNodeTableWalkTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/cql3/SingleNodeTableWalkTest.java,SingleNodeTableWalkTest.java,IndexedColumn,"""TODO (correctness): the id isn't correct... this is what we use to create the table, so would miss the actual ID"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\cql3\SingleNodeTableWalkTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/cql3/SingleNodeTableWalkTest.java,SingleNodeTableWalkTest.java,IndexedColumn,"""TODO (coverage): partition is defined at the cluster level, so have to hard code in this model as the table is changed rather than cluster being recreated... this limits coverage"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\cql3\SingleNodeTableWalkTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/cql3/SingleNodeTableWalkTest.java,SingleNodeTableWalkTest.java,IndexedColumn,"""TODO (coverage): can you query for UDT fields?  its a single cell so you  should ?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\cql3\SingleNodeTableWalkTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/cql3/SingleNodeTableWalkTest.java,SingleNodeTableWalkTest.java,IndexedColumn,"""TODO (coverage): include non-frozen collections;  the index part works fine, its the select that fails... basic equality isn't allowed for map type... so how do you query?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\cql3\SingleNodeTableWalkTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/cql3/SingleNodeTableWalkTest.java,SingleNodeTableWalkTest.java,IndexedColumn,"""TODO (coverage): can you query for UDT fields?  its a single cell so you  should ?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\cql3\SingleNodeTableWalkTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/cql3/SingleNodeTableWalkTest.java,SingleNodeTableWalkTest.java,IndexedColumn,"""TODO (coverage): include non-frozen collections;  the index part works fine, its the select that fails... basic equality isn't allowed for map type... so how do you query?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\cql3\SingleNodeTokenConflictTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/cql3/SingleNodeTokenConflictTest.java,SingleNodeTokenConflictTest.java,State,"""TODO (now, coverage): this is flakey and non-deterministic.  When this fails (gives bad response) rerunning the seed yields a passing test!"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\EphemeralSnapshotTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/EphemeralSnapshotTest.java,EphemeralSnapshotTest.java,EphemeralSnapshotTest,""" TODO this test might be deleted once we get rid of ephemeral marker file for good in 4.3"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\GossipSettlesTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/GossipSettlesTest.java,GossipSettlesTest.java,GossipSettlesTest,""" TODO: this test should be removed after running in-jvm dtests is set up via the shared API repository"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\GossipTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/GossipTest.java,GossipTest.java,GossipTest,""" TODO: fails with vnode enabled"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\hostreplacement\HostReplacementAbruptDownedInstanceTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/hostreplacement/HostReplacementAbruptDownedInstanceTest.java,HostReplacementAbruptDownedInstanceTest.java,HostReplacementAbruptDownedInstanceTest,"""TODO failing, but shouldn't!"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\hostreplacement\HostReplacementTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/hostreplacement/HostReplacementTest.java,HostReplacementTest.java,HostReplacementTest,""" TODO this might actually be safe now (though probably still undesirable),"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\hostreplacement\HostReplacementTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/hostreplacement/HostReplacementTest.java,HostReplacementTest.java,HostReplacementTest,""" TODO the node acting as the CMS must flush its distributed_metadata_log table before shutdown"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\hostreplacement\HostReplacementTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/hostreplacement/HostReplacementTest.java,HostReplacementTest.java,HostReplacementTest,"""  this should be a temporary hack"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\IPMembershipTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/IPMembershipTest.java,IPMembershipTest.java,IPMembershipTest,""" needed for deleteRecursive below"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\LargeColumnTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/LargeColumnTest.java,LargeColumnTest.java,LargeColumnTest,""" TODO: this test should be removed after running in-jvm dtests is set up via the shared API repository"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\CMSCatchupTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/CMSCatchupTest.java,CMSCatchupTest.java,CMSCatchupTest,""" needed for addtocms below"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\CMSMembershipMetricsTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/CMSMembershipMetricsTest.java,CMSMembershipMetricsTest.java,CMSMembershipMetricsTest,""" needed for addtocms below"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\ConflictingAddressRestartTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/ConflictingAddressRestartTest.java,ConflictingAddressRestartTest.java,ConflictingAddressRestartTest,"""todo; fails due to not being able to restart nodes, figure that out"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\DistributedLogTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/DistributedLogTest.java,DistributedLogTest.java,DistributedLogTest,""" TODO: ensure exactly once delivery / callback?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\DistributedLogTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/DistributedLogTest.java,DistributedLogTest.java,DistributedLogTest,""" TODO: concurrent submission?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\DistributedLogTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/DistributedLogTest.java,DistributedLogTest.java,DistributedLogTest,""" todo; add config param to disable snapshotting"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\DistributedLogTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/DistributedLogTest.java,DistributedLogTest.java,DistributedLogTest,""" todo; add config param to disable snapshotting"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\DistributedLogTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/DistributedLogTest.java,DistributedLogTest.java,DistributedLogTest,""" todo: add method to get the full log"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\DistributedLogTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/DistributedLogTest.java,DistributedLogTest.java,DistributedLogTest,""" TODO: ensure exactly once delivery / callback?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\DistributedLogTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/DistributedLogTest.java,DistributedLogTest.java,DistributedLogTest,""" TODO: concurrent submission?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\NTSSimulationTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/NTSSimulationTest.java,NTSSimulationTest.java,NTSSimulationTest,""" TODO: right now, we pick a candidate only if there is enough rf to execute operation"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\SnapshotTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/SnapshotTest.java,SnapshotTest.java,SnapshotTest,""" TODO don't use snapshots during regular (non-startup) catchup at all, ensure peers"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\SnapshotTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/SnapshotTest.java,SnapshotTest.java,SnapshotTest,""" TODO assert that this is a no-op and that the CMS doesn't actually send a snapshot"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\log\SystemKeyspaceStorageTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/log/SystemKeyspaceStorageTest.java,SystemKeyspaceStorageTest.java,SystemKeyspaceStorageTest,""" TODO: currently, we do not have means of stopping traffic between the CMS and node1"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\metrics\CoordinatorReadLatencyMetricTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/metrics/CoordinatorReadLatencyMetricTest.java,CoordinatorReadLatencyMetricTest.java,CoordinatorReadLatencyMetricTest,"""TODO (now, correctness, coverage): count(v) breaks accord as we get mutliple rows rather than the count of rows..."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\NativeProtocolTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/NativeProtocolTest.java,NativeProtocolTest.java,NativeProtocolTest,""" TODO: this test should be removed after running in-jvm dtests is set up via the shared API repository"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\NetworkTopologyTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/NetworkTopologyTest.java,NetworkTopologyTest.java,NetworkTopologyTest,""" TODO: this test should be removed after running in-jvm dtests is set up via the shared API repository"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\PaxosRepair2Test.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/PaxosRepair2Test.java,PaxosRepair2Test.java,SingleUpdateSupplier,""" quick workaround for metaspace ooms, will properly reuse clusters later"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\PaxosRepairTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/PaxosRepairTest.java,PaxosRepairTest.java,PaxosRow,""" TODO: fails with vnode enabled"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\PaxosRepairTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/PaxosRepairTest.java,PaxosRepairTest.java,PaxosRow,""" TODO: fails with vnode enabled"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\PaxosRepairTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/PaxosRepairTest.java,PaxosRepairTest.java,PaxosRow,""" TODO: fails with vnode enabled"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\PaxosRepairTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/PaxosRepairTest.java,PaxosRepairTest.java,PaxosRow,""" TODO: fails with vnode enabled"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\PaxosRepairTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/PaxosRepairTest.java,PaxosRepairTest.java,PaxosRow,""" TODO: fails with vnode enabled"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\PaxosRepairTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/PaxosRepairTest.java,PaxosRepairTest.java,PaxosRow,""" TODO: fails with vnode enabled"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\ReadRepairTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/ReadRepairTest.java,ReadRepairTest.java,RRHelper,""" the containing exception class was loaded by another class loader. Comparing the message as a workaround to assert the exception"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\ReadRepairTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/ReadRepairTest.java,ReadRepairTest.java,RRHelper,""" TODO: rewrite using FuzzTestBase to control progress through decommission"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\ReadRepairTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/ReadRepairTest.java,ReadRepairTest.java,RRHelper,""" TODO: fails with vnode enabled"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\RepairCoordinatorFailingMessageTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/RepairCoordinatorFailingMessageTest.java,RepairCoordinatorFailingMessageTest.java,RepairCoordinatorFailingMessageTest,"""TODO failure reply murkle tree"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\RepairCoordinatorFailingMessageTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/RepairCoordinatorFailingMessageTest.java,RepairCoordinatorFailingMessageTest.java,RepairCoordinatorFailingMessageTest,"""TODO failure reply murkle tree IR"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\RepairCoordinatorFailingMessageTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/RepairCoordinatorFailingMessageTest.java,RepairCoordinatorFailingMessageTest.java,RepairCoordinatorFailingMessageTest,"""TODO failure reply murkle tree"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\RepairCoordinatorFailingMessageTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/RepairCoordinatorFailingMessageTest.java,RepairCoordinatorFailingMessageTest.java,RepairCoordinatorFailingMessageTest,"""TODO failure reply murkle tree IR"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\RepairOperationalTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/RepairOperationalTest.java,RepairOperationalTest.java,ByteBuddyHelper,""" fails with  Specified hosts [127.0.0.3, 127.0.0.1] do not share range (0,1000] needed for repair. Either restrict repair ranges with -st/-et options, or specify one of the neighbors that share this range with this node: [].. Check the logs on the repair participants for further details """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\ShortReadProtectionTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/ShortReadProtectionTest.java,ShortReadProtectionTest.java,Tester,""" TODO this blocks some of the original testing of SRP invoking BRR since it is BRRing through Accord"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\streaming\StreamCloseInMiddleTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/streaming/StreamCloseInMiddleTest.java,StreamCloseInMiddleTest.java,BBHelper,"""TODO is there a cleaner way to check this?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\streaming\StreamCloseInMiddleTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/streaming/StreamCloseInMiddleTest.java,StreamCloseInMiddleTest.java,BBHelper,"""TODO is there a cleaner way to check this?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\TestBaseImpl.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/TestBaseImpl.java,TestBaseImpl.java,MessageCountingSink,""" in real live repair is needed in this case, but in the test case it doesn't matter if the tables loose"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\TestBaseImpl.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/TestBaseImpl.java,TestBaseImpl.java,MessageCountingSink,""" TODO why does standard out end up in stderr in nodetool?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\test\thresholds\RowIndexSizeWarningTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/test/thresholds/RowIndexSizeWarningTest.java,RowIndexSizeWarningTest.java,RowIndexSizeWarningTest,""" hack to force multiple index entries"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\distributed\upgrade\ClusterMetadataUpgradeIgnoreHostsTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/distributed/upgrade/ClusterMetadataUpgradeIgnoreHostsTest.java,ClusterMetadataUpgradeIgnoreHostsTest.java,ClusterMetadataUpgradeIgnoreHostsTest,""" todo; isolate node 3 - actually shutting it down makes us throw exceptions when test finishes"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\fuzz\harry\util\BitSetTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/fuzz/harry/util/BitSetTest.java,BitSetTest.java,BitSetTest,""" TODO: these are not real tests"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\fuzz\ring\ConsistentMoveTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/fuzz/ring/ConsistentMoveTest.java,ConsistentMoveTest.java,ConsistentMoveTest,""" TODO: rewrite the test to check only PENDING ranges."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\fuzz\topology\AccordTopologyMixupTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/fuzz/topology/AccordTopologyMixupTest.java,AccordTopologyMixupTest.java,InterceptAgent,"""TODO (coverage): include  fast_path = 'keyspace'  override"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\fuzz\topology\AccordTopologyMixupTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/fuzz/topology/AccordTopologyMixupTest.java,AccordTopologyMixupTest.java,InterceptAgent,"""TODO (coverage): this is something Accord should support, so should remove and make sure accord is updated"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\fuzz\topology\AccordTopologyMixupTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/fuzz/topology/AccordTopologyMixupTest.java,AccordTopologyMixupTest.java,InterceptAgent,"""TODO (coverage): CASSANDRA-20828 found an issue with multi cell list type timestamp handling, so make sure accord doesn't hit this"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\fuzz\topology\AccordTopologyMixupTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/fuzz/topology/AccordTopologyMixupTest.java,AccordTopologyMixupTest.java,InterceptAgent,""" TODO (correctness): how to handle?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\fuzz\topology\AccordTopologyMixupTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/fuzz/topology/AccordTopologyMixupTest.java,AccordTopologyMixupTest.java,InterceptAgent,""" TODO (correctness): how to handle?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\service\accord\AccordJournalCompactionTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/service/accord/AccordJournalCompactionTest.java,AccordJournalCompactionTest.java,AccordJournalCompactionTest,""" TODO: improve redundant before generator and re-enable"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\distributed\org\apache\cassandra\service\accord\journal\AccordJournalBurnTest.java,dataset/projects/cassandra/test/distributed/org/apache/cassandra/service/accord/journal/AccordJournalBurnTest.java,AccordJournalBurnTest.java,AccordJournalBurnTest,""" TODO (required): we should be persisting in the journal, but this currently causes the burn test to take far too long"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\harry\main\org\apache\cassandra\harry\test\HistoryBuilderTest.java,dataset/projects/cassandra/test/harry/main/org/apache/cassandra/harry/test/HistoryBuilderTest.java,HistoryBuilderTest.java,HistoryBuilderTest,""" TODO: go through all basic features of History builder here and test them!!!"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\harry\main\org\apache\cassandra\harry\test\HistoryBuilderTest.java,dataset/projects/cassandra/test/harry/main/org/apache/cassandra/harry/test/HistoryBuilderTest.java,HistoryBuilderTest.java,HistoryBuilderTest,""" TODO: for example, inverse"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\harry\main\org\apache\cassandra\harry\test\HistoryBuilderTest.java,dataset/projects/cassandra/test/harry/main/org/apache/cassandra/harry/test/HistoryBuilderTest.java,HistoryBuilderTest.java,HistoryBuilderTest,""" TODO: go through all basic features of History builder here and test them!!!"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\harry\main\org\apache\cassandra\harry\test\SimpleBijectionTest.java,dataset/projects/cassandra/test/harry/main/org/apache/cassandra/harry/test/SimpleBijectionTest.java,SimpleBijectionTest.java,SimpleBijectionTest,""" TODO (now): negative tests"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\harry\main\org\apache\cassandra\harry\test\SimpleBijectionTest.java,dataset/projects/cassandra/test/harry/main/org/apache/cassandra/harry/test/SimpleBijectionTest.java,SimpleBijectionTest.java,SimpleBijectionTest,""" TODO (now): negative tests"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\long\org\apache\cassandra\cql3\ManyRowsTest.java,dataset/projects/cassandra/test/long/org/apache/cassandra/cql3/ManyRowsTest.java,ManyRowsTest.java,ManyRowsTest,""" TODO - this was done in parallel by dtests"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\long\org\apache\cassandra\cql3\ManyRowsTest.java,dataset/projects/cassandra/test/long/org/apache/cassandra/cql3/ManyRowsTest.java,ManyRowsTest.java,ManyRowsTest,""" TODO - this was done in parallel by dtests"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\simulator\test\org\apache\cassandra\simulator\paxos\HistoryValidatorTest.java,dataset/projects/cassandra/test/simulator/test/org/apache/cassandra/simulator/paxos/HistoryValidatorTest.java,HistoryValidatorTest.java,AllPks,"""TODO forgot to add this and LinearizabilityValidator was success... should reject!"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\simulator\test\org\apache\cassandra\simulator\paxos\HistoryValidatorTest.java,dataset/projects/cassandra/test/simulator/test/org/apache/cassandra/simulator/paxos/HistoryValidatorTest.java,HistoryValidatorTest.java,AllPks,"""TODO write skew"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\simulator\test\org\apache\cassandra\simulator\test\AccordExecutorTest.java,dataset/projects/cassandra/test/simulator/test/org/apache/cassandra/simulator/test/AccordExecutorTest.java,AccordExecutorTest.java,AccordExecutorTest,""" TODO (required): have simulator intercept ReentantLock so we can test SyncSubmit and SemiSyncSubmit"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\simulator\test\org\apache\cassandra\simulator\test\MonitorMethodTransformerTest.java,dataset/projects/cassandra/test/simulator/test/org/apache/cassandra/simulator/test/MonitorMethodTransformerTest.java,MonitorMethodTransformerTest.java,MonitorMethodTransformerTest,"""   * the fairness of acquiring the monitor needed to enter the synchronized method"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\constraints\NotNullConstraintTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/constraints/NotNullConstraintTest.java,NotNullConstraintTest.java,NotNullConstraintTest,"""
+ * TODO - UDTs are not supported yet in constraints as such
+ """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\constraints\NotNullConstraintTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/constraints/NotNullConstraintTest.java,NotNullConstraintTest.java,NotNullConstraintTest,"""
+ * TODO - UDTs are not supported yet in constraints as such
+ """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\ColumnSpecificationTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/ColumnSpecificationTest.java,ColumnSpecificationTest.java,ColumnSpecificationTest,"""
+     * TODO - investigate if it is possible to specify checks before mask when creating a table
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\ColumnSpecificationTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/ColumnSpecificationTest.java,ColumnSpecificationTest.java,ColumnSpecificationTest,"""
+     * TODO - investigate if it is possible to specify both check and mask, check being first
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\ColumnSpecificationTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/ColumnSpecificationTest.java,ColumnSpecificationTest.java,ColumnSpecificationTest,"""
+     * TODO - investigate if it is possible to specify both check and mask, mask being first
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\functions\masking\ColumnMaskQueryWithDefaultTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/functions/masking/ColumnMaskQueryWithDefaultTest.java,ColumnMaskQueryWithDefaultTest.java,ColumnMaskQueryWithDefaultTest,""" TODO: the driver version that we use doesn't support vectors, so we have to use raw values by now"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\functions\masking\ColumnMaskQueryWithReplaceTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/functions/masking/ColumnMaskQueryWithReplaceTest.java,ColumnMaskQueryWithReplaceTest.java,ColumnMaskQueryWithReplaceTest,""" TODO: the driver version that we use doesn't support vectors, so we have to use raw values by now"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\OutOfSpaceTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/OutOfSpaceTest.java,OutOfSpaceTest.java,OutOfSpaceTest,"""
+     * Shadows the same method on the superclass as we don't want to join the ring
+     * because this test depends on local ranges being null and has done since its
+     * introduction.
+     * TODO investigate whether this is correct.
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\RandomSchemaTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/RandomSchemaTest.java,RandomSchemaTest.java,PropertyError,""" TODO : when table level override of sstable format is allowed, migrate to that"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\SecondaryIndexSSTableExportTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/SecondaryIndexSSTableExportTest.java,SecondaryIndexSSTableExportTest.java,SecondaryIndexSSTableExportTest,""" TODO: CASSANDRA-18254 should provide a workaround for pre-5.0 sstables"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\SecondaryIndexSSTableExportTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/SecondaryIndexSSTableExportTest.java,SecondaryIndexSSTableExportTest.java,SecondaryIndexSSTableExportTest,""" TODO: CASSANDRA-18254 should provide a workaround for pre-5.0 sstables"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\SystemKeyspaceTablesNamesTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/SystemKeyspaceTablesNamesTest.java,SystemKeyspaceTablesNamesTest.java,SystemKeyspaceTablesNamesTest,""" Needed for distributed keyspaces"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\validation\entities\TupleTypeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/validation/entities/TupleTypeTest.java,TupleTypeTest.java,TypeAndRows,""" TODO - the dtest was using v2 protocol"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\validation\entities\UserTypesTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/validation/entities/UserTypesTest.java,UserTypesTest.java,UserTypesTest,""" TODO: deserialize the value here and check it 's right."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\validation\operations\AlterTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/validation/operations/AlterTest.java,AlterTest.java,AlterTest,"""
+        // todo (rebase) we also need these
+        metadata.updateNormalToken(Util.token( A ), local);
+        metadata.updateNormalToken(Util.token( B ), remote);
+         """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\validation\operations\InsertInvalidateSizedRecordsTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/validation/operations/InsertInvalidateSizedRecordsTest.java,InsertInvalidateSizedRecordsTest.java,InsertInvalidateSizedRecordsTest,""" Rather than try to fix the test and cqlsh... this test only keeps the  true  logic as it is what is needed to make sure CASSANDRA-18504"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\validation\operations\InsertUpdateIfConditionTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/validation/operations/InsertUpdateIfConditionTest.java,InsertUpdateIfConditionTest.java,InsertUpdateIfConditionTest,""" TODO [tcm] we will require upgrading from 4.1"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\validation\operations\InsertUpdateIfConditionTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/validation/operations/InsertUpdateIfConditionTest.java,InsertUpdateIfConditionTest.java,InsertUpdateIfConditionTest,""" TODO: confirm this create attempt doesn't alter type field from int to blob"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\validation\operations\TTLTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/validation/operations/TTLTest.java,TTLTest.java,TTLTest,""" but we need to catch any exceptions we might run into bc of the hack. See CASSANDRA-16546"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\ViewFiltering1Test.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/ViewFiltering1Test.java,ViewFiltering1Test.java,ViewFiltering1Test,""" TODO will revise the non-pk filter condition in MV, see CASSANDRA-11500"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\ViewFiltering1Test.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/ViewFiltering1Test.java,ViewFiltering1Test.java,ViewFiltering1Test,""" TODO will revise the non-pk filter condition in MV, see CASSANDRA-11500"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\cql3\ViewFiltering1Test.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/cql3/ViewFiltering1Test.java,ViewFiltering1Test.java,ViewFiltering1Test,""" TODO will revise the non-pk filter condition in MV, see CASSANDRA-11500"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\ColumnFamilyStoreMBeanTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/ColumnFamilyStoreMBeanTest.java,ColumnFamilyStoreMBeanTest.java,ColumnFamilyStoreMBeanTest,""" Random and RandomSource can not share the same seed, but there is a workaround..."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\ColumnFamilyStoreTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/ColumnFamilyStoreTest.java,ColumnFamilyStoreTest.java,ColumnFamilyStoreTest,""" TODO: Fix once we have working supercolumns in 8099"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\ColumnFamilyStoreTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/ColumnFamilyStoreTest.java,ColumnFamilyStoreTest.java,ColumnFamilyStoreTest,""" TODO: Fix once SSTableSimpleWriter's back in"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\ColumnFamilyStoreTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/ColumnFamilyStoreTest.java,ColumnFamilyStoreTest.java,ColumnFamilyStoreTest,""" TODO: Fix once SSTableSimpleWriter's back in"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\ColumnFamilyStoreTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/ColumnFamilyStoreTest.java,ColumnFamilyStoreTest.java,ColumnFamilyStoreTest,"""                // hack for reset generation"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\ColumnFamilyStoreTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/ColumnFamilyStoreTest.java,ColumnFamilyStoreTest.java,ColumnFamilyStoreTest,""" TODO: Fix once we have working supercolumns in 8099"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\ColumnFamilyStoreTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/ColumnFamilyStoreTest.java,ColumnFamilyStoreTest.java,ColumnFamilyStoreTest,""" TODO: Fix once SSTableSimpleWriter's back in"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\ColumnFamilyStoreTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/ColumnFamilyStoreTest.java,ColumnFamilyStoreTest.java,ColumnFamilyStoreTest,""" TODO: Fix once SSTableSimpleWriter's back in"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\ColumnFamilyStoreTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/ColumnFamilyStoreTest.java,ColumnFamilyStoreTest.java,ColumnFamilyStoreTest,"""                // hack for reset generation"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\commitlog\CommitLogTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/commitlog/CommitLogTest.java,CommitLogTest.java,SimpleCountingReplayer,"""
+     * Since commit log segments can be allocated before they're needed, the commit log file with the highest
+     * id isn't neccesarily the last log that we wrote to. We should remove header only logs on recover so we
+     * can tolerate truncated logs
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\CorruptPrimaryIndexTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/CorruptPrimaryIndexTest.java,CorruptPrimaryIndexTest.java,CorruptPrimaryIndexTest,""" TODO: Change this to modify something in a more undetectable position in the file when checksumming is implemented"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\DirectoriesTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/DirectoriesTest.java,DirectoriesTest.java,FakeFileStore,""" hack to create a temp dir"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\guardrails\GuardrailKeyspacePropertiesTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/guardrails/GuardrailKeyspacePropertiesTest.java,GuardrailKeyspacePropertiesTest.java,GuardrailKeyspacePropertiesTest,""" Configure  durable_writes  to be warned about (tests will override as needed)"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\marshal\AbstractTypeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/marshal/AbstractTypeTest.java,AbstractTypeTest.java,CurrentTypesCompatibility,""" TODO"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\marshal\AbstractTypeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/marshal/AbstractTypeTest.java,AbstractTypeTest.java,CurrentTypesCompatibility,""" TODO : add UDT back"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\marshal\AbstractTypeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/marshal/AbstractTypeTest.java,AbstractTypeTest.java,CurrentTypesCompatibility,""" TODO"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\marshal\TypeValidationTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/marshal/TypeValidationTest.java,TypeValidationTest.java,TypeValidationTest,""" todo: for completeness, should test invalid two byte pairs."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\marshal\TypeValidationTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/marshal/TypeValidationTest.java,TypeValidationTest.java,TypeValidationTest,""" todo: for completeness, should test invalid two byte pairs."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\RangeTombstoneListTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/RangeTombstoneListTest.java,RangeTombstoneListTest.java,RangeTombstoneListTest,""" Needed to initialize initial_range_tombstone_allocation_size and range_tombstone_resize_factor"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\SchemaCQLHelperTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/SchemaCQLHelperTest.java,SchemaCQLHelperTest.java,SchemaCQLHelperTest,""" TODO: construct manifest from SnapshotManager"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\SecondaryIndexTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/SecondaryIndexTest.java,SecondaryIndexTest.java,SecondaryIndexTest,""" todo - checking the # of index searchers for the command is probably not the best thing to test here"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\SecondaryIndexTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/SecondaryIndexTest.java,SecondaryIndexTest.java,SecondaryIndexTest,""" todo - checking the # of index searchers for the command is probably not the best thing to test here"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\SecondaryIndexTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/SecondaryIndexTest.java,SecondaryIndexTest.java,SecondaryIndexTest,""" TODO: Figure out why this is re-inserting"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\streaming\CassandraEntireSSTableStreamWriterTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/streaming/CassandraEntireSSTableStreamWriterTest.java,CassandraEntireSSTableStreamWriterTest.java,CassandraEntireSSTableStreamWriterTest,""" This is needed as Netty releases the ByteBuffers as soon as the channel is flushed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\streaming\CassandraStreamManagerTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/streaming/CassandraStreamManagerTest.java,CassandraStreamManagerTest.java,CassandraStreamManagerTest,""" needed since we get notified when compaction is done as well - we can't get sections for ranges for obsoleted sstables"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\transform\TransformationOptimalSizeStackTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/transform/TransformationOptimalSizeStackTest.java,TransformationOptimalSizeStackTest.java,TransformationOptimalSizeStackTest,""" so no resizing is needed."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\virtual\AccordDebugKeyspaceTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/virtual/AccordDebugKeyspaceTest.java,AccordDebugKeyspaceTest.java,AccordMsgFilter,""" TODO (expected): test graph_all (though mostly shared logic)"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\virtual\AccordDebugKeyspaceTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/virtual/AccordDebugKeyspaceTest.java,AccordDebugKeyspaceTest.java,AccordMsgFilter,""" TODO (required): we have some bug with visiting same txn twice via multiple intersecting dependency relations; test and fix"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\virtual\AccordDebugKeyspaceTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/virtual/AccordDebugKeyspaceTest.java,AccordDebugKeyspaceTest.java,AccordMsgFilter,""" TODO (expected): test multi-key transactions (though functionally the same as range txns)"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\virtual\AccordDebugKeyspaceTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/virtual/AccordDebugKeyspaceTest.java,AccordDebugKeyspaceTest.java,AccordMsgFilter,""" TODO (expected): test graph_all (though mostly shared logic)"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\virtual\LazyVirtualTableTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/virtual/LazyVirtualTableTest.java,LazyVirtualTableTest.java,TestTable,""" TODO (desired): test this"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\virtual\LazyVirtualTableTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/virtual/LazyVirtualTableTest.java,LazyVirtualTableTest.java,TestTable,""" TODO (desired): test this"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\virtual\LazyVirtualTableTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/virtual/LazyVirtualTableTest.java,LazyVirtualTableTest.java,TestTable,""" TODO (desired): test this"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\virtual\LazyVirtualTableTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/virtual/LazyVirtualTableTest.java,LazyVirtualTableTest.java,TestTable,""" TODO (desired): test this"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\virtual\LazyVirtualTableTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/virtual/LazyVirtualTableTest.java,LazyVirtualTableTest.java,TestTable,""" TODO (desired): test this"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\virtual\LazyVirtualTableTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/virtual/LazyVirtualTableTest.java,LazyVirtualTableTest.java,TestTable,""" TODO (desired): test this"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\db\virtual\LocalRepairTablesTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/db/virtual/LocalRepairTablesTest.java,LocalRepairTablesTest.java,LocalRepairTablesTest,""" job isn't needed but makes getting the descriptor easier"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\AccordSplitterTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/AccordSplitterTest.java,AccordSplitterTest.java,AccordSplitterTest,""" TODO (now): fix the fact accordSplitter returns AccordBytesSplitter which will fail for java.lang.ClassCastException: org.apache.cassandra.dht.LocalPartitioner$LocalToken cannot be cast to org.apache.cassandra.dht.ByteOrderedPartitioner$BytesToken"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\AccordSplitterTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/AccordSplitterTest.java,AccordSplitterTest.java,AccordSplitterTest,""" TODO (now): java.lang.AssertionError: [size is not larger than 0 for partitioner org.apache.cassandra.dht.OrderPreservingPartitioner@54a67a45]"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\AccordSplitterTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/AccordSplitterTest.java,AccordSplitterTest.java,AccordSplitterTest,""" TODO (now): [size is not larger than 0 for partitioner org.apache.cassandra.dht.ByteOrderedPartitioner@44e3a2b2]"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\AccordSplitterTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/AccordSplitterTest.java,AccordSplitterTest.java,AccordSplitterTest,""" TODO (now): [num splits not as expected for partitioner org.apache.cassandra.dht.ByteOrderedPartitioner@4c550889]\nExpected size to be between: <47> and <48> but was:<62> in:"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\AccordSplitterTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/AccordSplitterTest.java,AccordSplitterTest.java,AccordSplitterTest,""" TODO (now): [num splits not as expected for partitioner org.apache.cassandra.dht.ByteOrderedPartitioner@13518f37]\nExpected size to be between: <11> and <12> but was:<13> in:"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\AccordSplitterTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/AccordSplitterTest.java,AccordSplitterTest.java,AccordSplitterTest,""" TODO (now): [num splits not as expected for partitioner org.apache.cassandra.dht.OrderPreservingPartitioner@4233e892]\nExpected size to be between: <51> and <52> but was:<54> in:"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\IPartitionerTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/IPartitionerTest.java,IPartitionerTest.java,IPartitionerTest,"""TODO (now, maintaince): this is copied from AbstractTypeTest"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Right half of the new range is needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Left half of the new range is needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Parts on both ends of the new range are needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Right half of the new range is needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Left half of the new range is needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Parts on both ends of the new range are needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Right half of the new range is needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Whole range is needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Only the LHS of the new range is needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Both ends of the new range are needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Whole new range is needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Whole new range is needed (matching endpoints)"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Only RHS of new range is needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Only RHS of new range is needed (matching endpoints)"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\RangeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/RangeTest.java,RangeTest.java,RangeTest,""" Need to validate that we roundtrip the actual exact input PartitionPosition and don't lose part of the input bound that might be needed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\dht\tokenallocator\TokenAllocationTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/dht/tokenallocator/TokenAllocationTest.java,TokenAllocationTest.java,TokenAllocationTest,"""
+     * TODO: This scenario isn't supported very well. Investigate a multi-keyspace version of the algorithm.
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\accord\RouteIndexTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/accord/RouteIndexTest.java,RouteIndexTest.java,Sut,""" TODO (expected): there appears to be a CI resource issue?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\accord\RouteIndexTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/accord/RouteIndexTest.java,RouteIndexTest.java,Sut,"""TODO (coverage): include with the ability to mark ranges as durable for compaction cleanup"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\sai\cql\AllowFilteringTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/sai/cql/AllowFilteringTest.java,AllowFilteringTest.java,AllowFilteringTest,"""
+ * Tests that {@code ALLOW FILTERING} is required only if needed.
+ """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\sai\cql\AllowFilteringTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/sai/cql/AllowFilteringTest.java,AllowFilteringTest.java,AllowFilteringTest,"""
+ * Tests that {@code ALLOW FILTERING} is required only if needed.
+ """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\sai\cql\InetAddressTypeEquivalencyTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/sai/cql/InetAddressTypeEquivalencyTest.java,InetAddressTypeEquivalencyTest.java,InetAddressTypeEquivalencyTest,""" TODO: Disable coordinator execution because we know SAI indexing for inet works differently than RowFilter,"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\sai\cql\InetAddressTypeEquivalencyTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/sai/cql/InetAddressTypeEquivalencyTest.java,InetAddressTypeEquivalencyTest.java,InetAddressTypeEquivalencyTest,""" TODO: Disable coordinator execution because we know SAI indexing for inet works differently than RowFilter,"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\sai\cql\types\InetTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/sai/cql/types/InetTest.java,InetTest.java,InetTest,""" TODO: Disable coordinator execution because we know SAI indexing for inet works differently than RowFilter,"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\sai\cql\types\InetTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/sai/cql/types/InetTest.java,InetTest.java,InetTest,""" TODO: Disable coordinator execution because we know SAI indexing for inet works differently than RowFilter,"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\sai\disk\NodeStartupTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/sai/disk/NodeStartupTest.java,NodeStartupTest.java,NodeStartupTest,""" TODO: Disable the coordinator execution used by SAITester until we have a way to simulate node restarts combined"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\sai\disk\NodeStartupTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/sai/disk/NodeStartupTest.java,NodeStartupTest.java,NodeStartupTest,""" TODO: Disable the coordinator execution used by SAITester until we have a way to simulate node restarts combined"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\sai\functional\NodeRestartTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/sai/functional/NodeRestartTest.java,NodeRestartTest.java,NodeRestartTest,"""TODO We should be able to use a latch here to avoid having a pause"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\sai\memory\VectorMemoryIndexTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/sai/memory/VectorMemoryIndexTest.java,VectorMemoryIndexTest.java,VectorMemoryIndexTest,"""TODO (repeatability): this uses ThreadLocalRandom which doesn't let you control the seed, so this class can not be repeated..."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\index\sai\memory\VectorMemoryIndexTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/index/sai/memory/VectorMemoryIndexTest.java,VectorMemoryIndexTest.java,VectorMemoryIndexTest,""" A non-null memtable tells it to track the mapping from primary key to vector, needed for brute force search"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\io\sstable\CQLSSTableWriterConcurrencyTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/io/sstable/CQLSSTableWriterConcurrencyTest.java,CQLSSTableWriterConcurrencyTest.java,CQLSSTableWriterConcurrencyTest,""" dataDir and insert statement are only needed for the CQLSSTableWriter class"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\io\sstable\format\big\RowIndexEntryTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/io/sstable/format/big/RowIndexEntryTest.java,RowIndexEntryTest.java,IndexedEntry,""" Not sure this branch will ever be needed, but if it is called, it has to calculate the"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\io\sstable\format\big\RowIndexEntryTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/io/sstable/format/big/RowIndexEntryTest.java,RowIndexEntryTest.java,IndexedEntry,""" Not sure this branch will ever be needed, but if it is called, it has to calculate the"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\io\sstable\format\big\RowIndexEntryTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/io/sstable/format/big/RowIndexEntryTest.java,RowIndexEntryTest.java,IndexedEntry,""" Not sure this branch will ever be needed, but if it is called, it has to calculate the"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\io\sstable\LegacySSTableTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/io/sstable/LegacySSTableTest.java,LegacySSTableTest.java,LegacySSTableTest,""" TODO: Currently this test needs to be ran alone to avoid unwanted compactions, flushes, etc to interfere"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\io\util\FileTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/io/util/FileTest.java,FileTest.java,Failed,""" TODO: confirm - it seems that accuracy of lastModified may differ between APIs on Linux??"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\io\util\RandomAccessReaderTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/io/util/RandomAccessReaderTest.java,RandomAccessReaderTest.java,FakeFileChannel,""" FIXME: This is the same as above."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\journal\DescriptorTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/journal/DescriptorTest.java,DescriptorTest.java,DescriptorTest,""" TODO: replace with Gens.strings().asciiVisible()"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\locator\PendingRangesTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/locator/PendingRangesTest.java,PendingRangesTest.java,PendingRangesTest,""" TODO assess whether it's valuable to port these randomised tests to TCM given that we have a largely equivalent"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\locator\PendingRangesTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/locator/PendingRangesTest.java,PendingRangesTest.java,PendingRangesTest,"""
+    @Test
+    public void testBootstrapLeaveAndMovePermutationsWithoutVnodes()
+    {
+        // In a non-vnode cluster (i.e. where tokensPerNode == 1), we can
+        // add, remove and move nodes
+        int maxRf = 5;
+        int nodes = 50;
+        Gen<Integer> rfs = rf(maxRf);
+        Gen<Input> inputs = rfs.flatMap(rf -> input(rf, nodes));
+
+        qt().forAll(inputs.flatMap(this::clustersWithChangedTopology))
+            .checkAssert(Cluster::calculateAndGetPendingRanges);
+    }
+
+    @Test
+    public void testBootstrapAndLeavePermutationsWithVnodes()
+    {
+        // In a vnode cluster (i.e. where tokensPerNode > 1), move is not
+        // supported, so only leave and bootstrap operations will occur
+        int maxRf = 5;
+        int nodes = 50;
+        int maxTokensPerNode = 16;
+
+        Gen<Integer> rfs = rf(maxRf);
+        Gen<Input> inputs = rfs.flatMap(rf -> input(rf, nodes, maxTokensPerNode));
+
+        qt().forAll(inputs.flatMap(this::clustersWithChangedTopology))
+            .checkAssert(Cluster::calculateAndGetPendingRanges);
+    }
+
+    private Gen<Integer> rf(int maxRf)
+    {
+        return integers().between(1, maxRf);
+    }
+
+    private Gen<Input> input(int rf, int maxNodes)
+    {
+        return integers().between(rf, maxNodes).map(n -> new Input(rf, n, 1));
+    }
+
+    private Gen<Input> input(int rf, int maxNodes, int maxTokensPerNode)
+    {
+        Gen<Integer> tokensPerNode = integers().between(1, maxTokensPerNode);
+        return integers().between(rf, maxNodes)
+                         .zip(tokensPerNode, (n, tokens) -> new Input(rf, n, tokens));
+    }
+
+    private Gen<Integer> bootstrappedNodes(Input input)
+    {
+        // at most double in size
+        return integers().between(0, input.nodes);
+    }
+
+    private Gen<Integer> leftNodes(Input input)
+    {
+        return integers().between(0, input.nodes - input.rf);
+    }
+
+    private Gen<Integer> movedNodes(Input input)
+    {
+        // Move is not supported in vnode clusters
+        if (input.tokensPerNode > 1)
+            return integers().between(0, 0);
+
+        return integers().between(0, input.nodes);
+    }
+
+    private Gen<Cluster> clusters(Input input)
+    {
+        return Generate.constant(() -> new Cluster(input.rf, input.nodes, input.tokensPerNode));
+    }
+
+    private Gen<Cluster> clustersWithChangedTopology(Input input)
+    {
+        Gen<Cluster> clusters = clusters(input);
+        Gen<Integer> leftNodes = leftNodes(input);
+        Gen<Integer> bootstrappedNodes = bootstrappedNodes(input);
+        Gen<Integer> movedNodes = movedNodes(input);
+
+        return clusters.zip(leftNodes, bootstrappedNodes, movedNodes,
+                            (cluster, left, bootstrapped, moved) -> cluster.decommissionNodes(left)
+                                                                           .bootstrapNodes(bootstrapped)
+                                                                           .moveNodes(moved));
+    }
+
+    static class Input
+    {
+        final int rf;
+        final int nodes;
+        final int tokensPerNode;
+
+        Input(int rf, int nodes, int tokensPerNode)
+        {
+            this.rf = rf;
+            this.nodes = nodes;
+            this.tokensPerNode = tokensPerNode;
+        }
+
+        public String toString()
+        {
+            return String.format( Input(rf=%s, nodes=%s, tokensPerNode=%s) , rf, nodes, tokensPerNode);
+        }
+    }
+
+    private static class Cluster
+    {
+        private TokenMetadata tm;
+        private final int tokensPerNode;
+        private final AbstractReplicationStrategy strategy;
+
+        private final List<InetAddressAndPort> nodes;
+        Random random = new Random();
+
+        Cluster(int rf, int initialNodes, int tokensPerNode)
+        {
+            this.nodes = new ArrayList<>(initialNodes);
+
+            this.tokensPerNode = tokensPerNode;
+            this.tm = buildTmd(initialNodes);
+
+            this.strategy = simpleStrategy(rf);
+        }
+
+        private TokenMetadata buildTmd(int initialNodes)
+        {
+            TokenMetadata tmd = new DefaultTokenMetadata();
+            TokenMetadata.Transformer tmdTransformer = tmd.transformer();
+
+            for (int i = 0; i < initialNodes; i++)
+            {
+                int id = nodes.size() + 1;
+                InetAddressAndPort node = peer(id);
+                tmdTransformer = tmdTransformer.withHostId(new UUID(0, id), node)
+                                               .withNormalTokens(tokens(), node);
+                nodes.add(node);
+            }
+            return tmdTransformer.build();
+        }
+
+        private void bootstrapNode()
+        {
+            int id = nodes.size() + 1;
+            InetAddressAndPort node = peer(id);
+            TokenMetadata.Transformer transformer = tm.transformer()
+                                                      .withHostId(new UUID(0, id), node);
+            transformer.withBootstrapTokens(tokens(), node, null);
+            nodes.add(node);
+            tm = transformer.build();
+        }
+
+        void calculateAndGetPendingRanges()
+        {
+            // test that it does not crash
+            for (InetAddressAndPort node : nodes)
+            {
+                ((DefaultTokenMetadata) tm).getPendingRanges(KEYSPACE, strategy).atEndpoint(node);
+            }
+        }
+
+        Cluster decommissionNodes(int cnt)
+        {
+            TokenMetadata.Transformer transformer = tm.transformer();
+            for (int i = 0; i < cnt; i++)
+                transformer = transformer.withLeavingEndpoint(nodes.get(random.nextInt(nodes.size())));
+
+            tm = transformer.build();
+            return this;
+        }
+
+        Cluster bootstrapNodes(int cnt)
+        {
+            for (int i = 0; i < cnt; i++)
+                bootstrapNode();
+            return this;
+        }
+
+        Cluster moveNodes(int cnt)
+        {
+            assert cnt == 0 || tokensPerNode == 1 :  Moving tokens is not supported when tokensPerNode ;
+
+            for (int i = 0; i < cnt; i++)
+                moveNode();
+            return this;
+        }
+
+        synchronized private void moveNode()
+        {
+            if (tm.getMovingEndpoints().size() >= nodes.size())
+                throw new IllegalStateException( Number of movements should not exceed total nodes in the cluster );
+
+            // we want to ensure that any given node is only marked as moving once.
+            // todo: made sure we don't try to move a leaving node - this seems to have been allowed before, investigate why
+            List<InetAddressAndPort> moveCandidates = nodes.stream()
+                                                           .filter(node -> tm.getMovingEndpoints().stream().noneMatch(p -> p.right.equals(node)))
+                                                           .filter(node -> tm.getLeavingEndpoints().stream().noneMatch(node::equals))
+                                                           .collect(Collectors.toList());
+            if (moveCandidates.size() > 0)
+            {
+                InetAddressAndPort node = moveCandidates.get(random.nextInt(moveCandidates.size()));
+                tm = tm.transformer().withMovingEndpoint(token(random.nextLong()), node).build();
+            }
+        }
+
+        private Collection<Token> tokens()
+        {
+            Collection<Token> tokens = new ArrayList<>(tokensPerNode);
+            for (int i=0; i< tokensPerNode; i++)
+                tokens.add(token(random.nextLong()));
+            return tokens;
+        }
+
+        @Override
+        public String toString()
+        {
+            return String.format( Nodes: %s\n  +
+                                  Metadata: %s ,
+                                 nodes.size(),
+                                 tm.toString());
+        }
+    }
+"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\locator\PendingRangesTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/locator/PendingRangesTest.java,PendingRangesTest.java,PendingRangesTest,""" TODO This fails with TCM as the constraints regarding concurrent overlapping range movements and"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\locator\PendingRangesTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/locator/PendingRangesTest.java,PendingRangesTest.java,PendingRangesTest,""" TODO This fails with TCM as the constraints regarding concurrent overlapping range movements and"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\locator\PendingRangesTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/locator/PendingRangesTest.java,PendingRangesTest.java,PendingRangesTest,""" TODO assess whether it's valuable to port these randomised tests to TCM given that we have a largely equivalent"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\locator\PendingRangesTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/locator/PendingRangesTest.java,PendingRangesTest.java,PendingRangesTest,"""
+    @Test
+    public void testBootstrapLeaveAndMovePermutationsWithoutVnodes()
+    {
+        // In a non-vnode cluster (i.e. where tokensPerNode == 1), we can
+        // add, remove and move nodes
+        int maxRf = 5;
+        int nodes = 50;
+        Gen<Integer> rfs = rf(maxRf);
+        Gen<Input> inputs = rfs.flatMap(rf -> input(rf, nodes));
+
+        qt().forAll(inputs.flatMap(this::clustersWithChangedTopology))
+            .checkAssert(Cluster::calculateAndGetPendingRanges);
+    }
+
+    @Test
+    public void testBootstrapAndLeavePermutationsWithVnodes()
+    {
+        // In a vnode cluster (i.e. where tokensPerNode > 1), move is not
+        // supported, so only leave and bootstrap operations will occur
+        int maxRf = 5;
+        int nodes = 50;
+        int maxTokensPerNode = 16;
+
+        Gen<Integer> rfs = rf(maxRf);
+        Gen<Input> inputs = rfs.flatMap(rf -> input(rf, nodes, maxTokensPerNode));
+
+        qt().forAll(inputs.flatMap(this::clustersWithChangedTopology))
+            .checkAssert(Cluster::calculateAndGetPendingRanges);
+    }
+
+    private Gen<Integer> rf(int maxRf)
+    {
+        return integers().between(1, maxRf);
+    }
+
+    private Gen<Input> input(int rf, int maxNodes)
+    {
+        return integers().between(rf, maxNodes).map(n -> new Input(rf, n, 1));
+    }
+
+    private Gen<Input> input(int rf, int maxNodes, int maxTokensPerNode)
+    {
+        Gen<Integer> tokensPerNode = integers().between(1, maxTokensPerNode);
+        return integers().between(rf, maxNodes)
+                         .zip(tokensPerNode, (n, tokens) -> new Input(rf, n, tokens));
+    }
+
+    private Gen<Integer> bootstrappedNodes(Input input)
+    {
+        // at most double in size
+        return integers().between(0, input.nodes);
+    }
+
+    private Gen<Integer> leftNodes(Input input)
+    {
+        return integers().between(0, input.nodes - input.rf);
+    }
+
+    private Gen<Integer> movedNodes(Input input)
+    {
+        // Move is not supported in vnode clusters
+        if (input.tokensPerNode > 1)
+            return integers().between(0, 0);
+
+        return integers().between(0, input.nodes);
+    }
+
+    private Gen<Cluster> clusters(Input input)
+    {
+        return Generate.constant(() -> new Cluster(input.rf, input.nodes, input.tokensPerNode));
+    }
+
+    private Gen<Cluster> clustersWithChangedTopology(Input input)
+    {
+        Gen<Cluster> clusters = clusters(input);
+        Gen<Integer> leftNodes = leftNodes(input);
+        Gen<Integer> bootstrappedNodes = bootstrappedNodes(input);
+        Gen<Integer> movedNodes = movedNodes(input);
+
+        return clusters.zip(leftNodes, bootstrappedNodes, movedNodes,
+                            (cluster, left, bootstrapped, moved) -> cluster.decommissionNodes(left)
+                                                                           .bootstrapNodes(bootstrapped)
+                                                                           .moveNodes(moved));
+    }
+
+    static class Input
+    {
+        final int rf;
+        final int nodes;
+        final int tokensPerNode;
+
+        Input(int rf, int nodes, int tokensPerNode)
+        {
+            this.rf = rf;
+            this.nodes = nodes;
+            this.tokensPerNode = tokensPerNode;
+        }
+
+        public String toString()
+        {
+            return String.format( Input(rf=%s, nodes=%s, tokensPerNode=%s) , rf, nodes, tokensPerNode);
+        }
+    }
+
+    private static class Cluster
+    {
+        private TokenMetadata tm;
+        private final int tokensPerNode;
+        private final AbstractReplicationStrategy strategy;
+
+        private final List<InetAddressAndPort> nodes;
+        Random random = new Random();
+
+        Cluster(int rf, int initialNodes, int tokensPerNode)
+        {
+            this.nodes = new ArrayList<>(initialNodes);
+
+            this.tokensPerNode = tokensPerNode;
+            this.tm = buildTmd(initialNodes);
+
+            this.strategy = simpleStrategy(rf);
+        }
+
+        private TokenMetadata buildTmd(int initialNodes)
+        {
+            TokenMetadata tmd = new DefaultTokenMetadata();
+            TokenMetadata.Transformer tmdTransformer = tmd.transformer();
+
+            for (int i = 0; i < initialNodes; i++)
+            {
+                int id = nodes.size() + 1;
+                InetAddressAndPort node = peer(id);
+                tmdTransformer = tmdTransformer.withHostId(new UUID(0, id), node)
+                                               .withNormalTokens(tokens(), node);
+                nodes.add(node);
+            }
+            return tmdTransformer.build();
+        }
+
+        private void bootstrapNode()
+        {
+            int id = nodes.size() + 1;
+            InetAddressAndPort node = peer(id);
+            TokenMetadata.Transformer transformer = tm.transformer()
+                                                      .withHostId(new UUID(0, id), node);
+            transformer.withBootstrapTokens(tokens(), node, null);
+            nodes.add(node);
+            tm = transformer.build();
+        }
+
+        void calculateAndGetPendingRanges()
+        {
+            // test that it does not crash
+            for (InetAddressAndPort node : nodes)
+            {
+                ((DefaultTokenMetadata) tm).getPendingRanges(KEYSPACE, strategy).atEndpoint(node);
+            }
+        }
+
+        Cluster decommissionNodes(int cnt)
+        {
+            TokenMetadata.Transformer transformer = tm.transformer();
+            for (int i = 0; i < cnt; i++)
+                transformer = transformer.withLeavingEndpoint(nodes.get(random.nextInt(nodes.size())));
+
+            tm = transformer.build();
+            return this;
+        }
+
+        Cluster bootstrapNodes(int cnt)
+        {
+            for (int i = 0; i < cnt; i++)
+                bootstrapNode();
+            return this;
+        }
+
+        Cluster moveNodes(int cnt)
+        {
+            assert cnt == 0 || tokensPerNode == 1 :  Moving tokens is not supported when tokensPerNode ;
+
+            for (int i = 0; i < cnt; i++)
+                moveNode();
+            return this;
+        }
+
+        synchronized private void moveNode()
+        {
+            if (tm.getMovingEndpoints().size() >= nodes.size())
+                throw new IllegalStateException( Number of movements should not exceed total nodes in the cluster );
+
+            // we want to ensure that any given node is only marked as moving once.
+            // todo: made sure we don't try to move a leaving node - this seems to have been allowed before, investigate why
+            List<InetAddressAndPort> moveCandidates = nodes.stream()
+                                                           .filter(node -> tm.getMovingEndpoints().stream().noneMatch(p -> p.right.equals(node)))
+                                                           .filter(node -> tm.getLeavingEndpoints().stream().noneMatch(node::equals))
+                                                           .collect(Collectors.toList());
+            if (moveCandidates.size() > 0)
+            {
+                InetAddressAndPort node = moveCandidates.get(random.nextInt(moveCandidates.size()));
+                tm = tm.transformer().withMovingEndpoint(token(random.nextLong()), node).build();
+            }
+        }
+
+        private Collection<Token> tokens()
+        {
+            Collection<Token> tokens = new ArrayList<>(tokensPerNode);
+            for (int i=0; i< tokensPerNode; i++)
+                tokens.add(token(random.nextLong()));
+            return tokens;
+        }
+
+        @Override
+        public String toString()
+        {
+            return String.format( Nodes: %s\n  +
+                                  Metadata: %s ,
+                                 nodes.size(),
+                                 tm.toString());
+        }
+    }
+"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\locator\ReplicaCollectionTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/locator/ReplicaCollectionTest.java,ReplicaCollectionTest.java,EndpointsTestCase,""" TODO: we should do more exhaustive tests of the collection"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\locator\ReplicaCollectionTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/locator/ReplicaCollectionTest.java,ReplicaCollectionTest.java,EndpointsTestCase,""" TODO: we should do more exhaustive tests of the collection"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\metrics\ThreadLocalMeterTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/metrics/ThreadLocalMeterTest.java,ThreadLocalMeterTest.java,DeterministicClock,""" to trigger PhantomReferences queuing and recycle unused Meter thread local counters"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\net\ConnectionTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/net/ConnectionTest.java,ConnectionTest.java,Settings,""" TODO: count corruptions"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\net\FramingTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/net/FramingTest.java,FramingTest.java,SequenceOfFrames,""" TODO: use quick theories"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\net\HandshakeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/net/HandshakeTest.java,HandshakeTest.java,HandshakeAcknowledgeChecker,""" TODO: test failure due to exception, timeout, etc"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\net\OutboundMessageQueueTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/net/OutboundMessageQueueTest.java,OutboundMessageQueueTest.java,OutboundMessageQueueTest,""" TODO: incomplete"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\net\TestChannel.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/net/TestChannel.java,TestChannel.java,TestChannel,""" we override ByteBuf to prevent retain() from working, to avoid release() since it is not needed in our usage"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\net\TestChannel.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/net/TestChannel.java,TestChannel.java,TestChannel,""" we override ByteBuf to prevent retain() from working, to avoid release() since it is not needed in our usage"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\repair\RepairJobTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/repair/RepairJobTest.java,RepairJobTest.java,MeasureableRepairSession,""" todo; tcm - we default to paxos v2, which implies running paxos repairs, in trunk we default to v1 which doesn't"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\AccordCacheEntryTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/AccordCacheEntryTest.java,AccordCacheEntryTest.java,CacheEntry,""" TODO (expected): this is sort of a pointless test now - remove it?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\AccordReadRepairTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/AccordReadRepairTest.java,AccordReadRepairTest.java,AccordReadRepairTest,""" TODO (required): this was ignored temporarily for perf testing - fix and reenable!"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\AccordReadRepairTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/AccordReadRepairTest.java,AccordReadRepairTest.java,AccordReadRepairTest,""" TODO (required): this was ignored temporarily for perf testing - fix and reenable!"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\AccordTaskTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/AccordTaskTest.java,AccordTaskTest.java,AccordTaskTest,""" TODO review: This change to `ifInitialized` was done in a lot of places and it doesn't preserve this property"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\EpochSyncTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/EpochSyncTest.java,EpochSyncTest.java,Connection,""" TODO (review): Should there be a real scheduler here? Is it possible to adapt the Scheduler interface to scheduler used in this test?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\EpochSyncTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/EpochSyncTest.java,EpochSyncTest.java,Connection,""" TODO (review): Should there be a real scheduler here? Is it possible to adapt the Scheduler interface to scheduler used in this test?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\EpochSyncTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/EpochSyncTest.java,EpochSyncTest.java,Connection,""" TODO (review): Should there be a real scheduler here? Is it possible to adapt the Scheduler interface to scheduler used in this test?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\serializers\CheckStatusSerializersTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/serializers/CheckStatusSerializersTest.java,CheckStatusSerializersTest.java,CheckStatusSerializersTest,""" TODO (desired): don't hard code murmur"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\serializers\CheckStatusSerializersTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/serializers/CheckStatusSerializersTest.java,CheckStatusSerializersTest.java,CheckStatusSerializersTest,""" TODO (desired): don't hard code keys type"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\serializers\CommandsForKeySerializerTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/serializers/CommandsForKeySerializerTest.java,CommandsForKeySerializerTest.java,TestSafeCommandStore,""" TODO (required): produce broader variety of distributions, including executeAt with lower HLC but higher epoch"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\serializers\CommandsForKeySerializerTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/serializers/CommandsForKeySerializerTest.java,CommandsForKeySerializerTest.java,TestSafeCommandStore,""" TODO (required): test statusOverrides"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\txn\TxnConditionTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/txn/TxnConditionTest.java,TxnConditionTest.java,Key,"""TODO (coverage): test list type, which supports by-offset and by-value"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\txn\TxnConditionTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/txn/TxnConditionTest.java,TxnConditionTest.java,Key,"""TODO (coverage): test map type, which has key/value which allows empty"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\accord\WatermarkCollectorTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/accord/WatermarkCollectorTest.java,WatermarkCollectorTest.java,WatermarkCollectorTest,"""TODO (ux): should move this to Gens"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\BootstrapTransientTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/BootstrapTransientTest.java,BootstrapTransientTest.java,BootstrapTransientTest,""" TODO: actually use these"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\JoinTokenRingTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/JoinTokenRingTest.java,JoinTokenRingTest.java,JoinTokenRingTest,""" TODO implement new test"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\service\paxos\PaxosStateTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/service/paxos/PaxosStateTest.java,PaxosStateTest.java,PaxosStateTest,""" TODO: test from cache after write"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\streaming\EntireSSTableStreamingCorrectFilesCountTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/streaming/EntireSSTableStreamingCorrectFilesCountTest.java,EntireSSTableStreamingCorrectFilesCountTest.java,FileCountingStreamEventHandler,""" This is needed as Netty releases the ByteBuffers as soon as the channel is flushed"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\tcm\BootWithMetadataTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/tcm/BootWithMetadataTest.java,BootWithMetadataTest.java,BootWithMetadataTest,""" TODO random schema"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\tcm\ClusterMetadataMetadataKeyTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/tcm/ClusterMetadataMetadataKeyTest.java,ClusterMetadataMetadataKeyTest.java,ClusterMetadataMetadataKeyTest,""" Mapping of ClusterMetadata field names to MetadataKey name; mapping is only needed if the names don't match."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\tcm\log\LocalStorageLogStateTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/tcm/log/LocalStorageLogStateTest.java,LocalStorageLogStateTest.java,LocalStorageLogStateTest,""" somewhat of a hack, but a  real  log as used by the DistributedMetadataKeyspace equivalent of this"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\tcm\ownership\DeltaMapTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/tcm/ownership/DeltaMapTest.java,DeltaMapTest.java,DeltaMapTest,""" TODO there isn't an obvious reason to support this, so perhaps we should be conservative and"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\tcm\sequences\DropAccordTableTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/tcm/sequences/DropAccordTableTest.java,DropAccordTableTest.java,Ref,""" TODO (required): should this be a no-op service? Probably not! But this is what it was before (only relying on !accord.enabled check in AccordService.instance()...)"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\tcm\sequences\DropAccordTableTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/tcm/sequences/DropAccordTableTest.java,DropAccordTableTest.java,Ref,""" hack this table into the schema..."""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\tcm\sequences\InProgressSequenceCancellationTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/tcm/sequences/InProgressSequenceCancellationTest.java,InProgressSequenceCancellationTest.java,InProgressSequenceCancellationTest,""" bit of a hack to jump the old node directly to joined"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\tcm\sequences\ProgressBarrierTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/tcm/sequences/ProgressBarrierTest.java,ProgressBarrierTest.java,ProgressBarrierTest,""" TODO: move to a common lib? Is this a good idea?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\tcm\transformations\EventsMetadataTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/tcm/transformations/EventsMetadataTest.java,EventsMetadataTest.java,EventsMetadataTest,""" TODO: try to rewrite them as fuzz tests"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\tools\nodetool\ScrubToolTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/tools/nodetool/ScrubToolTest.java,ScrubToolTest.java,ScrubToolTest,""" TODO cleaner that ignores"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\transport\ConnectionTrackerTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/transport/ConnectionTrackerTest.java,ConnectionTrackerTest.java,EmbeddedChannelWithSocketAddress,"""
+     * An embedded channel that uses the given {@link SocketAddress}'s string as its channel id, and {@link #remoteAddress()}
+     * returns the provided address.
+     *
+     * This is needed because {@link ServerConnection} expects a {@link Channel} with a {@link SocketAddress}
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\transport\ConnectionTrackerTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/transport/ConnectionTrackerTest.java,ConnectionTrackerTest.java,EmbeddedChannelWithSocketAddress,"""
+     * An embedded channel that uses the given {@link SocketAddress}'s string as its channel id, and {@link #remoteAddress()}
+     * returns the provided address.
+     *
+     * This is needed because {@link ServerConnection} expects a {@link Channel} with a {@link SocketAddress}
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\transport\ConnectionTrackerTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/transport/ConnectionTrackerTest.java,ConnectionTrackerTest.java,EmbeddedChannelWithSocketAddress,"""
+     * An embedded channel that uses the given {@link SocketAddress}'s string as its channel id, and {@link #remoteAddress()}
+     * returns the provided address.
+     *
+     * This is needed because {@link ServerConnection} expects a {@link Channel} with a {@link SocketAddress}
+     """
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\utils\AbstractIteratorTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/utils/AbstractIteratorTest.java,AbstractIteratorTest.java,SomeUncheckedException,""" TODO(cpovirk): why is this slow (>1m/test) under GWT when fully optimized?"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\utils\btree\BTreeMapGuavaTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/utils/btree/BTreeMapGuavaTest.java,BTreeMapGuavaTest.java,BTreeMapWrapper,""" todo; add a mutable wrapper and run the full map tests"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\utils\btree\BTreeMapGuavaTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/utils/btree/BTreeMapGuavaTest.java,BTreeMapGuavaTest.java,BTreeMapWrapper,""" todo; add a navigable wrapper and run the full navigable map tests"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\utils\btree\BTreeMapTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/utils/btree/BTreeMapTest.java,BTreeMapTest.java,BTreeMapTest,""" todo: increase after rebase due to BTreeRemoval bug"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\utils\btree\BTreeMultimapTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/utils/btree/BTreeMultimapTest.java,BTreeMultimapTest.java,BTreeMultimapTest,""" todo; BTree removals are currently broken - increase these numbers after rebase to current trunk (and change seed below)"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\utils\btree\BTreeSetGuavaTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/utils/btree/BTreeSetGuavaTest.java,BTreeSetGuavaTest.java,BTreeSetWithClassicToArray,""" todo: SortedSetTestSuiteBuilder"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\utils\btree\IntervalBTreeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/utils/btree/IntervalBTreeTest.java,IntervalBTreeTest.java,TestComparators,""" TODO (expected): test extreme patterns"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\utils\memory\BufferPoolTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/utils/memory/BufferPoolTest.java,BufferPoolTest.java,BufferPoolTest,""" the unused portion was too small to be returned, the buffer remains unchanged"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\utils\MergeIteratorComparisonTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/utils/MergeIteratorComparisonTest.java,MergeIteratorComparisonTest.java,CandidatePQ,""" TODO: if we had our own PriorityQueue implementation we could stash items"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\utils\MergeIteratorComparisonTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/utils/MergeIteratorComparisonTest.java,MergeIteratorComparisonTest.java,CandidatePQ,""" TODO: if we had our own PriorityQueue implementation we could stash items"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\utils\MergeIteratorComparisonTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/utils/MergeIteratorComparisonTest.java,MergeIteratorComparisonTest.java,CandidatePQ,""" TODO: if we had our own PriorityQueue implementation we could stash items"""
+GitHub,relation_test_code_smell_ML,C:\Users\ismak\Documents\GitHub\relation_test_code_smell_ML\dataset\projects\cassandra\test\unit\org\apache\cassandra\utils\MerkleTreeTest.java,dataset/projects/cassandra/test/unit/org/apache/cassandra/utils/MerkleTreeTest.java,MerkleTreeTest.java,Trees,""" TODO need to trickle TokenSerializer"""
